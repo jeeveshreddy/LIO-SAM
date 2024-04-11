@@ -1,5 +1,7 @@
 # LIO-SAM
 
+**THIS BRANCH IS MODIFIED TO SUPPORT WITH 6-AXIS IMU BASED LIDARS LIKE OUSTER OS1-16**
+
 **A real-time lidar-inertial odometry package. We strongly recommend the users read this document thoroughly and test the package with the provided dataset first. A video of the demonstration of the method can be found on [YouTube](https://www.youtube.com/watch?v=A0H8CoORZJU).**
 
 <p align='center'>
